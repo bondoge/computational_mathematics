@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/OpenGLIntro/233493676_3568565321_223132457.mp4'
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/OpenGLIntro/3427755428_4286368807_3276414937.mp4'
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/OpenGLIntro/3335999156_4286419845_4083719805.mp4'
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/OpenGLIntro/3335999156_1130103927_3141737302.mp4'
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/OpenGLIntro/3335999156_599470654_3065310285.mp4'
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/OpenGLIntro/3335999156_3146877161_421046842.mp4'
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/OpenGLIntro/2355806923_3607972441_1668651251.mp4'
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/OpenGLIntro/3140025110_2407476136_2639423586.mp4'
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/OpenGLIntro/3195856190_1168972211_2639423586.mp4'

@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lliza/OneDrive/Desktop/6sem/compMath/project/media/videos/project/720p30/partial_movie_files/RotateScene/233493676_2359210177_2905347623.mp4'
